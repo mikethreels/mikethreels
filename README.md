@@ -14,6 +14,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][medium]
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikethreels&layout=compact&theme=vue" />
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -42,8 +43,6 @@ this is my first blog post I hope you like it!
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-
----
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=vue&show_icons=true" />
 
