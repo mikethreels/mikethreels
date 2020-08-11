@@ -1,6 +1,6 @@
-# Hello everyone!
+# Hi there, I'm Michael 👋
 
-I'm Michael Threels, currently in a mission to become a Full stack web developer.
+I'm currently on a mission to become a Full stack web developer.
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=vue&show_icons=true" />
 Here's a little about what I'm currently up to:
 
