@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello everyone!
 
-<!--
-**mikethreels/mikethreels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael Threels, currently in a mission to become a Full stack web developer.
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=radical&show_icons=true" />
+Here's a little about what I'm currently up to:
 
-Here are some ideas to get you started:
+- 🔥 I work as an IT Engineer
+- 🏗 I’m currently working on building more projects in order to be able to showcase my skills
+- 🧙🏻‍♂️ I'm currently learning Web Development <code><img height="14" src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main hobbies: Programming 💻, Videogames 🎮 and Netflix 🍿!
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikethreels&layout=compact&theme=tokyonight" />
+
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/michaelthreels/) DM or through my personal mail: michaelthreels@gmail.com
