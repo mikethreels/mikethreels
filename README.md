@@ -43,6 +43,8 @@ this is my first blog post I hope you like it!
 <!-- BLOG-POST-LIST:END -->
 
 <br />
+<br />
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=vue&show_icons=true" />
 
