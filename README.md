@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts 
 this is my first blog post I hope you like it!
 <!-- BLOG-POST-LIST:START -->
+- [How‌ ‌I‌ ‌started‌ ‌learning‌ ‌web‌ development‌](https://medium.com/@michaelthreels/how-i-started-learning-web-development-7a2ceb12ec64)
 <!-- BLOG-POST-LIST:END -->
 
 ---
