@@ -46,11 +46,9 @@ this is my first blog post I hope you like it!
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikethreels&layout=compact&theme=vue" />
-
----
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=vue&show_icons=true" />
 
+---
 
 <br />
 <br />
