@@ -42,13 +42,12 @@ this is my first blog post I hope you like it!
 - [How‌ ‌I‌ ‌started‌ ‌learning‌ ‌web‌ development‌](https://medium.com/@michaelthreels/how-i-started-learning-web-development-7a2ceb12ec64)
 <!-- BLOG-POST-LIST:END -->
 
+---
 <br />
 <br />
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=mikethreels&theme=vue&show_icons=true" />
-
----
 
 <br />
 <br />
