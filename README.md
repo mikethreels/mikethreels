@@ -2,11 +2,11 @@
 
 ## I'm a Husband, Father and Developer!
 - 💻 I'm currently on a mission to become a Full stack web developer.
-- 👯 I'm looking to collaborate with other full stack web developers.
-- 🥅 2020 Goals, Contributing to Open Source projects and landing my first developer job.
+- 👯 I'm looking to collaborate with other full-stack web developers.
+- 🥅 This year's Goals, Contributing to Open Source projects and landing my first developer job.
 - ⚡ A little about me, I love to Read 📗 and everything to do with Motorcycles 🏍!
 
-### connect with me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
